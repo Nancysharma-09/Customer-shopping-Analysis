@@ -10,6 +10,17 @@ This project analyzes a dataset of 3,900+ customer shopping transactions to unco
 
 ![Customer Shopping Dashboard](dashboard.png)
 
+## 🛠️ Skills Demonstrated
+
+- Python
+- SQL
+- Power BI
+- Data Analysis
+- Data Visualization
+- Exploratory Data Analysis (EDA)
+- Business Intelligence
+- Data Cleaning
+
 ## 📊 Dataset
 
 **File:** `customer_shopping_behavior.csv`
