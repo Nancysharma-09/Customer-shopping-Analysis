@@ -6,7 +6,9 @@ A comprehensive data analytics project analyzing customer shopping trends and be
 
 This project analyzes a dataset of 3,900+ customer shopping transactions to uncover valuable insights about customer behavior, purchase patterns, and revenue drivers. The analysis combines data cleaning, exploratory data analysis (EDA), and SQL-based business intelligence queries to answer critical business questions.
 
-## 📈 Dashboard Preview
+## � Interactive Dashboard
+
+An interactive Power BI dashboard (`Customer_Behavior_Dashboard.pbix`) visualizes key metrics and insights:
 
 ![Customer Shopping Dashboard](dashboard.png)
 
@@ -138,37 +140,6 @@ The SQL analysis explores 10 key business questions:
 #### Demographic Insights
 10. **Age Group Revenue**: Revenue contribution analysis across different age groups
 
-## � Interactive Dashboard
-
-### Power BI Dashboard
-
-An interactive Power BI dashboard (`Customer_Behavior_Dashboard.pbix`) visualizes key metrics and insights:
-
-![Customer Behavior Dashboard](./dashboard.png)
-
-**Dashboard Features:**
-- **Key Metrics Cards**: 
-  - Total Customers: 3.9K
-  - Average Purchase Amount: $59.76
-  - Average Review Rating: 3.75
-  
-- **Subscription Analysis**: Pie chart showing 27% subscribers vs 73% non-subscribers
-
-- **Revenue Insights**:
-  - Revenue by Category (bar chart)
-  - Revenue by Age Group (horizontal bar chart)
-  
-- **Sales Performance**:
-  - Sales by Category breakdown
-  - Sales by Age Group distribution
-
-- **Interactive Filters**:
-  - Subscription Status (Yes/No)
-  - Gender (Female/Male)
-  - Category (Accessories, Clothing, Footwear, Outerwear)
-  - Shipping Type (multiple options)
-
-The dashboard provides real-time insights for business decision-making and trend analysis.
 
 ## �💡 Key Insights
 
