@@ -6,6 +6,10 @@ A comprehensive data analytics project analyzing customer shopping trends and be
 
 This project analyzes a dataset of 3,900+ customer shopping transactions to uncover valuable insights about customer behavior, purchase patterns, and revenue drivers. The analysis combines data cleaning, exploratory data analysis (EDA), and SQL-based business intelligence queries to answer critical business questions.
 
+## 📈 Dashboard Preview
+
+![Customer Shopping Dashboard](dashboard.png)
+
 ## 📊 Dataset
 
 **File:** `customer_shopping_behavior.csv`
