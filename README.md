@@ -232,7 +232,7 @@ This project is available for educational and analytical purposes.
 
 ## 👤 Author
 
-**Nanshi Sharma**
+**Nancy Sharma**
 - Email: Bhardwajnancy@gmail.com
 - GitHub: [@Nancysharma-09](https://github.com/Nancysharma-09)
 - LinkedIn: [@Nancy-09]()
