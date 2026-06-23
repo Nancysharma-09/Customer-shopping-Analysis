@@ -232,10 +232,10 @@ This project is available for educational and analytical purposes.
 
 ## 👤 Author
 
-**Nancy Sharma**
-- Email: vineetpatel468@gmail.com
-- GitHub: [@vineet416](https://github.com/vineet416)
-- LinkedIn: [@vineet416](https://www.linkedin.com/in/vineet416/)
+**Nanshi Sharma**
+- Email: Bhardwajnancy@gmail.com
+- GitHub: [@Nancysharma-09](https://github.com/Nancysharma-09)
+- LinkedIn: [@Nancy-09]()
 
 ## 📧 Contact
 
