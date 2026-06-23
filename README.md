@@ -10,6 +10,30 @@ This project analyzes a dataset of 3,900+ customer shopping transactions to unco
 
 ![Customer Shopping Dashboard](dashboard.png)
 
+**Dashboard Features:**
+- **Key Metrics Cards**: 
+  - Total Customers: 3.9K
+  - Average Purchase Amount: $59.76
+  - Average Review Rating: 3.75
+  
+- **Subscription Analysis**: Pie chart showing 27% subscribers vs 73% non-subscribers
+
+- **Revenue Insights**:
+  - Revenue by Category (bar chart)
+  - Revenue by Age Group (horizontal bar chart)
+  
+- **Sales Performance**:
+  - Sales by Category breakdown
+  - Sales by Age Group distribution
+
+- **Interactive Filters**:
+  - Subscription Status (Yes/No)
+  - Gender (Female/Male)
+  - Category (Accessories, Clothing, Footwear, Outerwear)
+  - Shipping Type (multiple options)
+
+The dashboard provides real-time insights for business decision-making and trend analysis.
+
 ## 🛠️ Skills Demonstrated
 
 - Python
