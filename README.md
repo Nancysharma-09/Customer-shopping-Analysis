@@ -232,7 +232,7 @@ This project is available for educational and analytical purposes.
 
 ## 👤 Author
 
-**Vineet Patel**
+**Nancy Sharma**
 - Email: vineetpatel468@gmail.com
 - GitHub: [@vineet416](https://github.com/vineet416)
 - LinkedIn: [@vineet416](https://www.linkedin.com/in/vineet416/)
